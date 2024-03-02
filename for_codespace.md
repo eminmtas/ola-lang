@@ -1,3 +1,7 @@
+# OLA PROGRAMMING LANGUAGE
+
+<img src="./ola-logo.png" alt="Ola Logo" style="align:left" />
+
 ## Rust
 ```
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
